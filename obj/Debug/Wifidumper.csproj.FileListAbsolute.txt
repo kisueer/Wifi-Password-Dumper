@@ -1,0 +1,7 @@
+C:\Users\gigel\source\repos\Wifidumper\bin\Debug\Wifidumper.exe.config
+C:\Users\gigel\source\repos\Wifidumper\bin\Debug\Wifidumper.exe
+C:\Users\gigel\source\repos\Wifidumper\bin\Debug\Wifidumper.pdb
+C:\Users\gigel\source\repos\Wifidumper\obj\Debug\Wifidumper.csproj.AssemblyReference.cache
+C:\Users\gigel\source\repos\Wifidumper\obj\Debug\Wifidumper.csproj.CoreCompileInputs.cache
+C:\Users\gigel\source\repos\Wifidumper\obj\Debug\Wifidumper.exe
+C:\Users\gigel\source\repos\Wifidumper\obj\Debug\Wifidumper.pdb
