@@ -26,20 +26,16 @@ A simple C# utility that retrieves saved Wi-Fi passwords from your Windows machi
 
 3. **Build from source**:
    ```bash
-   git clone https://github.com/yourusername/WifiPasswordRetriever.git
-   cd WifiPasswordRetriever
-   dotnet build
-🚀 Usage
+   git clone https://github.com/kisueer/Wifi-Password-Dumper.git
+   
+   cd Wifi-Password-Dumper
+   
+   Build Wifidumper.sln
+   ```
+   
+## 🚀 Usage
 Run the application (you may need Administrator privileges)
 
-
-## The tool will automatically:
-
-- List all saved Wi-Fi profiles
-
-- Display passwords for each network
-
-https://via.placeholder.com/600x300?text=Wi-Fi+Password+Retriever+Example
 
 ## ⚠️ Important Notes:
 - 🔐 This tool only retrieves passwords already saved on your computer
